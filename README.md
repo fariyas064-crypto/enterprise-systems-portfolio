@@ -22,9 +22,12 @@ In the long-term vision, the system could expand into an AutoEnroll AI platform 
 - contributing to the design of a better navigation experience
 - organizing the project artifacts into a coherent portfolio
 - communicating the system vision and the value of the redesign
-
--
+## Key Artifacts 
+Key problem and its identificatio: https://drive.google.com/file/d/1HqAGpkgIp8f6oRLn_iuICQzKK4T5G8Ex/view?usp=drivesdk
+Problem Statement: https://drive.google.com/file/d/15QZFt4B_0YI4OLqfeDp5_ZU8tSnv1nBb/view?usp=drivesdk
+Trillion Dollar System Vision: https://drive.google.com/file/d/18L4TZNJyItSh-nxzeVn9sD342v7g0lWG/view?usp=drivesdk
 ## What I Learned
 Through this project, I learned how user frustration often comes from system fragmentation rather than just visual design problems. I also learned how to frame a website not just as an interface, but as part of a larger system involving advising, scheduling, registration logic, and student decision-making. This project strengthened my ability to connect user research, design thinking, and system-level planning.
 
 ## Repository Link
+https://github.com/fariyas064-crypto/enterprise-systems-portfolio
